@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "version": "0.0.0",
+  "name": "example",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "yargs": "^16.2.0"
+  }
+}
